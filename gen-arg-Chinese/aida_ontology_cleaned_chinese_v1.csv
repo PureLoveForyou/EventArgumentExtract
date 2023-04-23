@@ -1,0 +1,5 @@
+event_type,template,arg1,arg2,arg3,arg4,arg5,arg6
+military.exercise,<arg1>等国家和组织在<arg2>等地区，从<arg3>开始到<arg4>进行了代号为“<arg5>”的军事演习，此次演习共有<arg6>参与,evt001arg01participants,evt001arg02place,evt001arg03startTime,evt001arg04endTime,evt001arg05exerciseCode,evt001arg06participantsNumber
+military.exercise.participate,在<arg1>到<arg2>期间，<arg3>在<arg4>进行了代号为“<arg5>”的联合军演，共<arg6>参加演习,evt002arg01startTime,evt002arg02endTime,evt002arg03participants,evt002arg04place,evt002arg05exerciseCode,evt002arg06participantsNumber
+military.exercise.hold,在<arg1>到<arg2>期间，<arg3>在<arg4>举行军事演习，此次代号为“<arg5>”的演习共<arg6>参加,evt003arg01startTime,evt003arg02endTime,evt003arg03participants,evt003arg04place,evt003arg05exerciseCode,evt003arg06participantsNumber
+military.exercise.joint,演习在<arg1>进行，在<arg2>到<arg3>期间，<arg4>等共投入<arg5>参加“<arg6>”联合军演,evt004arg01place,evt004arg02startTime,evt004arg03endTime,evt004arg04participants,evt004arg05participantsNumber,evt004arg06exerciseCode

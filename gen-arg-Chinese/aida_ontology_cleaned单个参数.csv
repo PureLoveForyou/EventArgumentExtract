@@ -1,0 +1,2 @@
+event_type,template,arg1,arg2,arg3,arg4,arg5,arg6
+military.exercise, <arg1> 等 国 家 和 组 织 在 <arg2> 等 地 区， 从 <arg3> 开 始 到 <arg4> 进 行 了 代 号 为 “ <arg5> ” 的 军 事 演 习， 此 次 演 习 共 有 <arg6> 参 与,evt001arg01participants,evt001arg02place,evt001arg03startTime,evt001arg04endTime,evt001arg05exerciseCode,evt001arg06participantsNumber

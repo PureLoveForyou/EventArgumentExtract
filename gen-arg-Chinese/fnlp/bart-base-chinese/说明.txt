@@ -1,0 +1,5 @@
+模型源文件地址：https://huggingface.co/fnlp/bart-base-chinese/tree/main
+
+请在链接里下载pytorch_model.bin文件并放到gen-arg-Chinese/fnlp/bart-base-chinese路径下
+
+我的代码用到的模型与链接中区别在于修改了config.json，我将`max_position_embeddings`的值从512改为了513

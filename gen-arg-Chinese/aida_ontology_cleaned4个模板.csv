@@ -1,0 +1,5 @@
+event_type,template,arg1,arg2,arg3,arg4,arg5,arg6
+military.exercise, <arg1> 等 国 家 和 组 织 在 <arg2> 等 地 区， 从 <arg3> 开 始 到 <arg4> 进 行 了 代 号 为 “ <arg5> ” 的 军 事 演 习， 此 次 演 习 共 有 <arg6> 参 与,evt001arg01participants,evt001arg02place,evt001arg03startTime,evt001arg04endTime,evt001arg05exerciseCode,evt001arg06participantsNumber
+military.exercise.participate,在 <arg1> 到 <arg2> 期 间， <arg3> 在 <arg4> 进 行 了 代 号 为 “ <arg5> ” 的 联 合 军 演， 共 <arg6> 参 加 演 习,evt002arg01startTime,evt002arg02endTime,evt002arg03participants,evt002arg04place,evt002arg05exerciseCode,evt002arg06participantsNumber
+military.exercise.hold,在 <arg1> 到 <arg2> 期 间， <arg3> 在 <arg4> 举 行 军 事 演 习， 此 次 代 号 为 “ <arg5> ” 的 演 习 共 <arg6> 参 加,evt003arg01startTime,evt003arg02endTime,evt003arg03participants,evt003arg04place,evt003arg05exerciseCode,evt003arg06participantsNumber
+military.exercise.joint,演 习 在 <arg1> 开 展，在 <arg2> 到 <arg3> 期 间， <arg4> 等 共 投 入 <arg5> 参 加 “ <arg6> ” 联 合 军 演,evt004arg01place,evt004arg02startTime,evt004arg03endTime,evt004arg04participants,evt004arg05participantsNumber,evt004arg06exerciseCode
